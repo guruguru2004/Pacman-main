@@ -1,13 +1,9 @@
-Packman
+Single Pacman
 
-Packman is a lightweight package manager designed for managing dependencies in your projects easily and efficiently.
+Single Pacman is a simple, efficient package manager designed to streamline the management of a single project’s dependencies.
 
-  Features
-  
-  Simple installation and setup
-  
-  Dependency management
-  
-  Easy to use command-line interface
-  
-  Cross-platform compatibility
+Features
+
+Easy installation and setup
+
+Intuitive command-line interface
